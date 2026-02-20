@@ -28,4 +28,4 @@ Python • C/C++ • PyTorch/TensorFlow • ROS • Docker • Git
 
 ---
 
-thibault.wartel@gmail.com • [linkedin.com/in/thibault-wartel](https://linkedin.com/in/thibault-wartel)
+[linkedin.com/in/thibault-wartel](https://linkedin.com/in/thibault-wartel)
